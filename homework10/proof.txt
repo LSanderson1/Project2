@@ -1,0 +1,10 @@
+Script started on Fri 06 May 2022 03:22:35 PM HST
+]0;lloyd9@uhx02:~/homework10[?1034huhx02:/home/l/lloyd9/homework10% make
+javac homework10.java
+javah -verbose homework10
+[Creating file RegularFileObject[homework10.h]]
+cc -I/usr/java/jdk1.8.0_131/include/ -I/usr/java/jdk1.8.0_131/include/linux -shared -o libmultiple.so homework10.c
+]0;lloyd9@uhx02:~/homework10uhx02:/home/l/lloyd9/homework10% exit
+exit
+
+Script done on Fri 06 May 2022 03:22:58 PM HST

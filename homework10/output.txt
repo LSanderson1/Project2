@@ -1,0 +1,50 @@
+Script started on Sat 07 May 2022 03:05:15 PM HST
+]0;lloyd9@uhx02:~/homework10[?1034huhx02:/home/l/lloyd9/homework10% make run
+java -Djava.library.path=. homework10
+This program takes a user value and prints all the multiples of 5 to the maximum value.
+Please enter a maximum value: 5
+Number    Is Multiple 5?
+     0              Yes
+     1               No
+     2               No
+     3               No
+     4               No
+     5              Yes
+]0;lloyd9@uhx02:~/homework10uhx02:/home/l/lloyd9/homework10% mak [K e[K[Ke t[Krun
+java -Djava.library.path=. homework10
+This program takes a user value and prints all the multiples of 5 to the maximum value.
+Please enter a maximum value: 10
+Number    Is Multiple 5?
+     0              Yes
+     1               No
+     2               No
+     3               No
+     4               No
+     5              Yes
+     6               No
+     7               No
+     8               No
+     9               No
+    10              Yes
+]0;lloyd9@uhx02:~/homework10uhx02:/home/l/lloyd9/homework10% make run
+java -Djava.library.path=. homework10
+This program takes a user value and prints all the multiples of 5 to the maximum value.
+Please enter a maximum value: abc
+Error, not a numeric integer.
+Please enter a numeric integer: -8 10
+Error, not a positive integer.
+Please enter a positive integer: 8
+Number    Is Multiple 5?
+     0              Yes
+     1               No
+     2               No
+     3               No
+     4               No
+     5              Yes
+     6               No
+     7               No
+     8               No
+]0;lloyd9@uhx02:~/homework10uhx02:/home/l/lloyd9/homework10% exit
+exit
+
+Script done on Sat 07 May 2022 03:06:56 PM HST
